@@ -7,6 +7,6 @@ def area(l):
 l = int(input("Digite o Lado de um quadrado: "))
 
 resultado = area(l)
-print("A área do quadrado é igual a: ", resultado)
+print("A área do quadrado é igual a: ", resultado, " metros")
 
 
